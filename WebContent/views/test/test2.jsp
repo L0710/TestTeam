@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>GitHub Test Team</h1>
-	<button onclick="location.href='test'">눌러보세요.</button>
-	<button onclick="location.href='test2'">눌러보세요.</button>
+	<h1>${ test }</h1>
 </body>
 </html>
